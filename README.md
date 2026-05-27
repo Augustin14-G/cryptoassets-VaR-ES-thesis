@@ -15,12 +15,12 @@ Risk of Cryptoassets"
 - 2_violations_computation.py - Rolling VaR estimation, violation analysis and graphs
 - 3_backtesting_VaR.py - Kupiec, Christoffersen independence and Joint tests 
 
-  3_ES
-  1_ES_computation.py - Computation of full-sample ES estimates
-  2_backtesting_ES.py - Acerbi-Szekely ES backtesting procedure and graphs
+3_ES
+- 1_ES_computation.py - Computation of full-sample ES estimates
+- 2_backtesting_ES.py - Acerbi-Szekely ES backtesting procedure and graphs
 
-  4_robustness
-  robustness_rolling_window.py - robustness check using a 125-day rolling window
+4_robustness
+- robustness_rolling_window.py - robustness check using a 125-day rolling window
 
 ## Requirements
 python 3.14.0 with the following packages : 
