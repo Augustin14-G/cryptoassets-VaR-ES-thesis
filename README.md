@@ -8,7 +8,7 @@ Risk of Cryptoassets"
 1_data
 - 1_stats_data.py - Descriptive statistics of cryptoassets returns
 - 2_returns_hist.py - Histograms of returns
-- 3_data_prep_methodology.py - Data preparation for main the analysis
+- 3_data_prep_methodology.py - Data preparation for the main analysis
 
 2_VaR
 - 1_VaR_computation.py - Computation of full-sample VaR estimates
