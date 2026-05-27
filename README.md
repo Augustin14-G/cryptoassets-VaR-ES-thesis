@@ -8,7 +8,7 @@ Risk of Cryptoassets"
 1_data
 - 1_stats_data.py - Descriptive statistics of cryptoassets returns
 - 2_returns_hist.py - Histograms of returns
-- 3_data_prep_methodology - Data preparation for the analysis
+- 3_data_prep_methodology.py - Data preparation for the analysis
 
 2_VaR
 - 1_VaR_computation.py - Computation of full-sample VaR estimates
@@ -31,4 +31,4 @@ python 3.14.0 with the following packages :
 - scipy
   
 ## Data
-Daily Bitcoin and Ethereum price were downloaded from Yahoo Finance. 
+Daily Bitcoin (BTC-USD) and Ethereum (ETH-USD) price data were downloaded from Yahoo Finance using the yfinance library, covering the period from January 2018 to December 2024. 
